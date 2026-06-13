@@ -1,16 +1,12 @@
-## Hi there 👋
+## Hi there 👋, I'm Krishna 
 
-<!--
-**Krishnaa0212/Krishnaa0212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👨‍💻About Me
+- 🎓 I'm a B.Tech Information Technology Student. 
+- 🌱 Currently learning AI, Machine Learning & Cloud Fundamentals.
+- 🔭 I'm regularly improving my programming and problem-solving skills.   
+- 🚀 Building projects in Web Development, Python, and Core Programming.
+- 🎯 Focused on mastering Data Structures, OOPs, and Full-Stack Development.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 📬 Connect With Me
+- 💼 LinkedIn: www.linkedin.com/in/krishna-prajapati-120933340
+- 📧 Email: kp6564431@gmail.com
